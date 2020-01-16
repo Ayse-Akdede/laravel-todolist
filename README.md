@@ -1,9 +1,9 @@
 # laravel-todolist
 
-Type of challenge: **learning**
-Repository : **laravel-todolist**
-Deadline : **22/11/2019 5:00 pm**
-Team : **group of 2**
+Type of challenge: **learning**  
+Repository : **laravel-todolist**  
+Deadline : **22/11/2019 5:00 pm**  
+Team : **group of 2**  
 
 ## Groupe
 [Ayse Akdede](https://github.com/Ayse-Akdede/)  
